@@ -1,3 +1,4 @@
-module github.com/golang-templates/seed
+module golang-proxy
+
 
 go 1.20
